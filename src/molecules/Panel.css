@@ -1,0 +1,14 @@
+.panel{
+
+   background: #eaeaea;
+   
+}
+
+.panelHeading{
+    background: #ccc;
+    padding:0.5rem;
+}
+
+.panelBody{
+    padding:1rem;
+}
